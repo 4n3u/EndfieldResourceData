@@ -1,0 +1,19 @@
+{
+    "resources": [
+        {
+            "name": "main",
+            "version": "11944529-13",
+            "path": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.6/resource/Windows/main/11944529-13_59lC5k81hm1Bhr1L/files"
+        },
+        {
+            "name": "initial",
+            "version": "11944529-13",
+            "path": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.6/resource/Windows/initial/11944529-13_NO0sC6vUcqQVyjEj/files"
+        }
+    ],
+    "configs": "{\"kick_flag\":true}",
+    "res_version": "initial_11944529-13_main_11944529-13",
+    "patch_index_path": "",
+    "domain": "https://beyond.hg-cdn.com",
+    "resource_keys": []
+}
